@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'israelchacon'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76A88F5C88BD41E58A065DF02225FE2E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD23A9AC49D046DFAA8502B4DF7F745A }}
           package: .
